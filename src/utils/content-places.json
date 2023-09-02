@@ -1,0 +1,191 @@
+{
+    "title": "Tourist places",
+    "sections": [
+      {
+        "id":"arunachal",
+        "content-first":"Arunachal Pradesh, a hidden gem in India's northeast, is like a canvas painted with nature's most vibrant hues. Imagine embarking on a journey through misty valleys, where dense forests whisper tales of ancient mysteries. Here, waterfalls dance over rocks, their laughter echoing in the air, while rugged peaks stand tall as guardians of a land that time forgot. Arunachal's villages, nestled in the hills, offer a glimpse into a world where traditions are nurtured like delicate blossoms. Warm smiles and captivating stories welcome you, making you feel like a part of something timeless. Monasteries and festivals add a cultural tapestry, where colors and chants weave together in harmony. Beyond just a destination, Arunachal Pradesh is an experience. It's a place where you can feel the heartbeat of nature and find serenity in its untouched beauty.", 
+        "title": "Arunachal Pradesh",
+        
+        "image-first": "./tawang.jpg",
+        "content-second": "Tawang is a beautiful town in the Indian state of Arunachal Pradesh, situated at an altitude of about 3,048 meters (10,000 feet) above sea level. It is the administrative headquarters of the Tawang district and the site of a famous Gelugpa Buddhist monastery, the largest in India and the second largest in the world. Tawang is also the birthplace of the sixth Dalai Lama, Tsangyang Gyatso, and has a rich cultural and historical heritage.",
+        "content-second-ptII":"The best time to visit Tawang is from September to March, when the weather is pleasant and clear. The temperature ranges from 5°C to 25°C (41°F to 77°F) during this period and there is less rainfall. The summer months from April to August are also good for visiting Tawang. The temperature ranges from 10°C to 21°C (50°F to 70°F) during this period and there is more greenery and flowers around. Major attractions include The Tawang Monastery, Sela Pass, Madhuri Lake, Nuranang Falls, Tawang War Memorial.",
+        
+        "image-second":"./ziro.jpg",
+         "content-third":"Ziro Valley is a captivating destination in the northeastern state of Arunachal Pradesh, India. It is a World Heritage Site candidate and the home of the Apatani tribe, who are known for their distinctive culture and traditions. Ziro Valley is surrounded by pine-clad hills and verdant rice fields, creating a picturesque landscape that enchants visitors.",
+         "content-third-ptII":"The best time to visit Ziro Valley is from March to October. The weather is pleasant during these months, with average temperatures ranging from 15 to 25 degrees Celsius. The valley is also lush and green during this time, with the rice fields in full bloom. Major attractions include Ziro Music Festival, The Apatani villages, Talley Valley Wildlife Sanctuary and Meghna Cave Temple.",
+        
+        "image-third": "./namdapha.jpg",
+        "content-fourth": "Namdapha National Park is a wildlife sanctuary and a biodiversity hotspot in the state of Arunachal Pradesh, India. It is the largest national park in India and the third largest in Asia, covering an area of 1,985 square kilometers. It is also the only park in the world that has four big cat species: the tiger, the leopard, the snow leopard, and the clouded leopard. Namdapha National Park is home to a rich variety of flora and fauna, including rare and endangered species such as the red panda, the hoolock gibbon, the hornbill, and the orchid." 
+      },
+
+
+
+      {
+        "id":"assam",
+        "content-first":"Nestled in the lush landscapes of India's northeastern corner, Assam presents a symphony of nature's wonders. Stepping into a realm where emerald tea gardens stretch as far as the eye can see, and where the tranquil Brahmaputra River meanders through the heart of ancient towns. Assam is a tapestry woven with vibrant traditions, where aromatic spices infuse the air with a sense of authenticity. The charm of its rural villages is matched only by the grandeur of its historic temples, each one narrating stories of bygone eras. The rhythm of life here is unhurried, allowing you to explore the soul of the land at your own pace. Assam isn't just a place; it's an immersion into a world where simplicity and beauty converge, creating an experience that lingers in your heart.",
+        "title": "Assam",
+
+        "image-first": "./tezpur.jpg",
+        "content-second": "Tezpur is a historic town in the state of Assam, India, located on the banks of the Brahmaputra River. It is the largest town on the north bank of the river and has a population of about 140,000 people. Tezpur is known for its cultural and natural attractions, as well as its strategic importance in the region.",
+        "content-second-ptII":"The best time to visit Tezpur is during the winter months, from October to February. The weather is pleasant during these months, with average temperatures ranging from 15 to 25 degrees Celsius. The city is also relatively less crowded during this time. Major attractions include Mahabhairab Temple, Chitralekha Udyan, Bamuni Hills, Agnigarh Hills and Nameri National Park.",
+        
+        "image-second": "./majuli.png",
+        "content-third":"Majuli is a river island in the state of Assam, India, situated in the Brahmaputra River. It is the largest river island in the world and a UNESCO World Heritage Site candidate. Majuli is famous for its natural beauty, cultural diversity, and spiritual significance.",
+        "content-third-ptII":"The best time to visit Majuli is during the winter months, from October to February. The weather is pleasant during these months, with average temperatures ranging from 15 to 25 degrees Celsius. The island is also relatively less crowded during this time. Major tourist attractions are Satras, which are monastery institutions that preserve and propagate the preaching of Vaishnavism. Other attractions include birthwatching spots, Mising vilages and river ghats.",
+
+        "image-third": "./kaziranga.jpg",
+        "content-fourth":"Kaziranga is a national park and a UNESCO World Heritage Site in the state of Assam, India. It is one of the most biodiverse and conservation-oriented regions in the world, and is famous for its population of the one-horned rhinoceros, which is the largest in the world. Kaziranga is also home to many other rare and endangered species of animals and plants, such as the tiger, the elephant, the wild buffalo, the swamp deer, the orchid, and the water lily.",
+        "content-fourth-ptII":"The best time to visit Kaziranga National Park is during the winter months, from November to April. The weather is pleasant during these months, with average temperatures ranging from 15 to 25 degrees Celsius. The park is also relatively less crowded during this time. Major things to experience are Jeep Safari, River Safari, and the iconic early morning Elephant Safari. Many resorts are present which cater tourists for their exotic beauty and food. The Kaziranga National Orchid and Biodiversity Park can also be an diversity place to look.",
+
+        "image-fourth": "./sivsagar.jpg",
+        "content-fifth":"Sivsagar is a historic town in the state of Assam, India, that was once the capital of the Ahom kingdom, which ruled the region for six centuries. Sivsagar is known for its rich cultural and architectural heritage, as well as its natural beauty.",
+        "content-fifth-ptII":"The best time to visit Sivasagar is during the winter months, from October to February. The weather is pleasant during these months, with average temperatures ranging from 10 to 25 degrees Celsius. The town is also relatively less crowded during this time. History preserved monuments like Talatal Ghar, Rang Ghar, Kareng Ghar, Joysagar Pukhuri, Charaideu Maidam are worth visiting.",
+
+        "image-fifth": "./haflong.jpg",
+        "content-sixth":"Haflong is a hill station and the headquarters of the Dima Hasao district in the state of Assam, India. It is also known as the “White Ant Hillock” and the “Switzerland of the East” for its scenic beauty and pleasant climate. Haflong is a popular destination for nature lovers, adventure seekers, and culture enthusiasts.",
+        "content-sixth-ptII":"The best time to visit Haflong is during the winter months, from October to February. The weather is pleasant during these months, with average temperatures ranging from 15 to 25 degrees Celsius. The town is also relatively less crowded during this time. Major attractions include Jatinga Valley, Haflong Lake, Maibang Town and the ethnic villages."
+      },
+
+
+
+      {
+        "id":"meghalaya",
+        "content-first":"Amidst the rolling hills and mist-laden landscapes, Meghalaya unveils its breathtaking beauty to those who seek a respite from the ordinary. Known as the 'Land of the Clouds', this Indian state is a realm of enchantment, where nature paints a vivid canvas of waterfalls that tumble like silver threads, and dense forests whisper ancient tales. Imagine traversing pathways adorned with living root bridges, an ingenious marriage of human creativity and the natural world. Meghalaya's hidden treasures reveal themselves in the tranquil lakes that mirror the sky and the vibrant cultures that thrive in its hamlets. As you embrace the local way of life, the rhythm of traditional music and dance will become a melody in your heart. In Meghalaya, every step reveals a new facet of its charm, reminding you that the simplest moments can hold the most profound beauty.",
+        "title": "Meghalaya",
+
+        "image-first": "./shillong.jpg",
+        "content-second": "Shillong is the capital city of the state of Meghalaya, India, and a popular hill station in the northeast. Shillong is also known as the “Scotland of the East” for its resemblance to the Scottish highlands. Shillong has a pleasant climate, a vibrant culture, and a scenic landscape.",
+        "content-second-ptII":"The best time to visit Shillong is from September to May, when the weather is dry and clear. During this period, the temperature ranges from 15°C to 25°C (59°F to 77°F) and there is less rainfall. This makes it ideal for sightseeing, trekking, boating, and other outdoor activities. Major attractions include Shillong Peak, Ward's lake, Umiam Lake, Elephanta Falls and Mawlynnong Villagewhich is known as the 'Cleanest Village in Asia",
+
+        "image-second": "./cherrapunji.jpg",
+        "content-third": "Cherrapunji is a town in the state of Meghalaya, India, that is famous for being one of the wettest places on Earth. Cherrapunji holds the world record for the highest rainfall in a calendar month and a year. Cherrapunji is also known for its natural beauty, cultural diversity, and adventure tourism.",
+        "content-third-ptII":"The best time to visit Cherrapunji is from October to May, when the weather is pleasant and dry. The temperature ranges from 10°C to 25°C (50°F to 77°F) during this period and there is less rainfall. However, one should be prepared for cold nights and occasional fog at higher altitudes. This is also the best time to enjoy the waterfalls, caves, bridges, and other attractions in Cherrapunji. Major attractions include Living Root bridges, The Nohkalikai Falls, Mawsmai Cave and The Seven Sisters Falls.",
+
+        "image-third": "./dawki.jpg",
+        "content-fourth": "Dawki is a small town in the state of Meghalaya, India, located near the border with Bangladesh. Dawki is famous for its crystal clear river, its scenic bridge, and its cultural diversity.",
+        "content-fourth-ptII":"The best time to visit Dawki is from October to May, when the weather is pleasant and dry. The temperature ranges from 15°C to 25°C (59°F to 77°F) during this period and there is less rainfall. The summer months from June to September are not recommended as the river becomes murky and turbulent, making it unsafe for boating and swimming. Attractions include Umngot River, Dawki-Tamabil Bridge, Shnongpdeng Village and Krang Suri Falls.",
+
+        "image-fourth": "./mawsynram.jpg",
+        "content-fifth": "Mawsynram is a village in the state of Meghalaya, India, that is reputed to be the wettest place on Earth. Mawsynram receives an average annual rainfall of about 11,872 mm (467 inches), which is more than any other place in the world. Mawsynram is also known for its natural beauty, cultural diversity, and adventure tourism.",
+        "content-fifth-ptII":"The best time to visit Mawsynram is from October to May, when the weather is pleasant and dry. The temperature ranges from 10°C to 25°C (50°F to 77°F) during this period and there is less rainfall. This is also the best time to enjoy the waterfalls, caves, bridges, and other attractions in Mawsynram. Major attractions include Mawjymbuin Cave, Khreng Khreng Waterfall."
+      },
+
+
+      
+      {
+        "id":"nagaland",
+        "content-first":"Nagaland, a land of vibrant traditions and breathtaking landscapes, welcomes you with open arms. As you step into this northeastern Indian state, you'll be enchanted by its lush hills and valleys, where nature weaves a tapestry of rich colors. Wander through quaint villages that echo with the rhythms of local life, and experience the warmth of Naga hospitality that flows like a gentle stream. Nagaland's festivals are a celebration of life, where ancient customs meet modern exuberance, and the air is filled with melodies and dances that tell tales of a resilient people. As you explore this land, you'll discover hidden treasures like mist-kissed peaks, pristine rivers, and ancient ruins that whisper stories of bygone eras.",
+        "title": "Nagaland",
+
+        "image-first": "./kohima.jpg",
+        "content-second": "Kohima is the capital city of the state of Nagaland, India, and a popular hill station in the northeast. Kohima is also known for its historical significance, as it was the site of a fierce battle between the British and the Japanese forces during World War II. Kohima has a pleasant climate, a diverse culture, and a scenic landscape.",
+        "content-second-ptII":"the best time to visit Kohima is from October to May, when the weather is pleasant and suitable for sightseeing and outdoor activities. The winter months of December and January are especially attractive, as they coincide with the Hornbill Festival, a vibrant celebration of the Naga culture and traditions. Major attractions include Kohima War Cemetery and Shilloi Lake.",
+
+        "image-second": "./saramati.jpg",
+        "content-third": "Mt.Saramati is the highest peak in the state of Nagaland, India, and the highest point of the Purvanchal Range, which extends from the Himalayas to the Indo-Myanmar border. Mt Saramati has an altitude of 3,826 meters (12,552 feet) and offers a challenging and rewarding trekking experience.",
+        "content-third-ptII":"The best time to visit Mount Saramati is during the spring (March to May) or autumn (September to November). The weather is pleasant during these months, with average temperatures ranging from 15 to 25 degrees Celsius. The mountain is also snow-free during these months, making it easier to climb.",
+
+        "image-third": "./dzukou.jpg",
+        "content-fourth": "Dzukou Valley is a valley of flowers that lies on the border of Nagaland and Manipur, India. It is a popular trekking destination that offers a breathtaking view of the rolling hills, meadows, streams, and forests. Dzukou Valley is also home to a rich variety of flora and fauna, including some rare and endangered species.",
+        "content-fourth-ptII":"The best time to visit Dzukou Valley is during the spring (March to May) or autumn (September to November). The weather is pleasant during these months, with average temperatures ranging from 15 to 25 degrees Celsius. The valley is also lush and green during this time, with the rhododendrons in full bloom.",
+
+        "image-fourth": "./khezhakeno.jpg",
+        "content-fifth": "Khezhakeno village is a historical and cultural village in the state of Nagaland, India, located in the Phek district. It is believed to be the ancestral home of many Naga tribes, who migrated from there to different parts of the state. Khezhakeno village is known for its legends, traditions, and natural beauty.",
+        "content-fifth-ptII":"The best time to visit Khezhakeno Village is during the autumn (September to November) or winter (December to February). The weather is pleasant during these months, with average temperatures ranging from 15 to 25 degrees Celsius. The village is also relatively less crowded during these times. The Khonoma Nature Conservation and Tragopan Sanctuary (KNCTS) and The Khezhakeno Rock Inscription are worth seeing."
+      },
+
+
+
+      {
+        "id":"manipur",
+        "content-first":"Manipur, a mesmerizing jewel in India's northeast, offers a symphony of natural beauty and cultural wonders. As you venture into this enchanting state, you'll be greeted by emerald green landscapes adorned with tranquil lakes and blooming wildflowers. The air carries whispers of ancient stories that have shaped Manipur's rich heritage, where tradition and modernity coexist in harmony. Immerse yourself in the vibrant local culture, where intricate dance forms and melodious music transport you to a realm of artistic expression. Explore the historic sites that stand as testament to Manipur's historical significance, and indulge your senses in the local cuisine that's as diverse as the land itself. Whether you're captivated by the serene beauty of Loktak Lake or the spirited energy of Manipuri festivals, the state's allure is sure to leave an indelible mark on your soul. Manipur isn't just a place to visit; it's an invitation to experience the essence of a land that celebrates its past while embracing the promise of tomorrow.",
+        "title": "Manipur",
+
+        "image-first": "./imphal.jpg",
+        "content-second": "Imphal is the capital city of the state of Manipur, India, and a cultural and historical hub in the northeast. Imphal is known for its scenic beauty, diverse culture, and rich heritage.",
+        "content-second-ptII":"The best time to visit Imphal is from October to March, when the weather is pleasant and dry. The temperature ranges from 10°C to 25°C (50°F to 77°F) during this period and there is less rainfall. This is also the best time to enjoy the Sangai Festival and other cultural events in Imphal. Major attractions include Kangla Fort, Ima Keithel, Shree Govindajee Temple, INA Memorial Complex.",
+
+        "image-second": "./tamenglong.jpg",
+        "content-third": "Tamenglong is a district and a town in the state of Manipur, India, that is known for its natural beauty, biodiversity, and cultural diversity. Tamenglong is a popular destination for nature lovers, wildlife enthusiasts, and adventure seekers.",
+        "content-third-ptII":"The best time to visit Tamenglong is from October to March, when the weather is pleasant and dry. The temperature ranges from 10°C to 25°C (50°F to 77°F) during this period and there is less rainfall. This is also the best time to enjoy the orange festival and other attractions in Tamenglong.",
+
+        "image-third": "./chandel.jpg",
+        "content-fourth": "Chandel is a district and a town in the state of Manipur, India, that is known for its ethnic diversity, natural beauty, and strategic location. Chandel is a gateway to Myanmar and a hub for trade and tourism.",
+        "content-fourth-ptII":"The best time to visit Chandel is from October to March, when the weather is pleasant and dry. The temperature ranges from 10°C to 25°C (50°F to 77°F) during this period and there is less rainfall. This is also the best time to enjoy the Barak Spring Festival and other attractions in Chandel. The Tengnoupal Peak is also worth visiting.",
+      
+        "image-fourth": "./lohtak.jpg",
+        "content-fifth": "Loktak Lake is the largest freshwater lake in northeast India and a Ramsar site of international importance. The lake is famous for its floating islands, called phumdis, which are made of organic matter and support various forms of life. The lake also has a national park, called Keibul Lamjao National Park, which is the only floating national park in the world and the home of the endangered sangai deer.",
+        "content-fifth-ptII":"Sendra Island is one of the largest phumdis in Loktak Lake and a popular tourist destination. The island has a resort, a cafeteria, a watchtower, and a museum. The island offers a panoramic view of the lake and its surroundings. You can also enjoy boating, fishing, birdwatching, and wildlife viewing on the island. You can also visit the nearby Karang Island, which is the first cashless island in India and has a rich culture and history."
+      },
+
+
+
+      {
+        "id":"mizoram",
+        "content-first":"Nestled in the lush embrace of nature's splendor, Mizoram unveils its hidden treasures with a sense of mystery and wonder. Imagine embarking on a journey through mist-covered hills, where emerald landscapes stretch as far as the eye can see. Here, vibrant cultures thrive in harmony with the breathtaking scenery, as cascading waterfalls add their melody to the chorus of nature. The air is tinged with the aroma of traditional delicacies, inviting you to savor the unique flavors of the land. Mizoram's villages, adorned with colorful houses, are a reflection of the vibrant souls that call this place home. As the sun sets, the sky transforms into a canvas of fiery hues, casting a magical spell over the horizon. Mizoram is not just a destination; it's an invitation to lose yourself in the beauty of simplicity and immerse in the stories that its landscapes whisper.",
+        "title": "Mizoram",
+
+        "image-first": "./aizawl.jpg",
+        "content-second": "Aizawl is the capital city of the state of Mizoram, India, and a scenic hill station in the northeast. Aizawl is known for its cultural diversity, natural beauty, and peaceful atmosphere.",
+        "content-second-ptII":"The best time to visit Aizawl is from October to March, when the weather is pleasant and dry. The temperature ranges from 10°C to 25°C (50°F to 77°F) during this period and there is less rainfall. This is also the best time to enjoy the festivals and events that take place in Aizawl such as Christmas, New Year, Chapchar Kut (spring festival), and Anthurium Festival (flower festival). Major attractions include The Durtlang Hills, Solomon's Temple, Reiek Heritage Village.",
+
+        "image-second": "./champhai.jpg",
+        "content-third": "Champhai is a district and a town in the state of Mizoram, India, that is located near the border with Myanmar. Champhai is known for its scenic beauty, historical significance, and cultural diversity. It offers a spectacular view of Myanmar's hill ranges. It is famously referred to as the 'Fruit Bowl of Mizoram'.",
+        "content-third-ptII":"The best time to visit Champhai is from October to March, when the weather is pleasant and dry. The temperature ranges from 10°C to 25°C (50°F to 77°F) during this period and there is less rainfall. This is also the best time to enjoy the festivals and events that take place in Champhai such as Mim Kut (harvest festival), Pawl Kut (winter festival), and Chapchar Kut (spring festival). The Murlen National Park is worth visiting.",
+
+        "image-third": "./sercchip.jpg",
+        "content-fourth": "Sercchip is a district in the state of Mizoram, India, located between Mat and Tuikam Rivers. Serchhip is home to the state's highest waterfalls and 8th highest mountain. It is known for its rich biodiversity, scenic beauty, and cultural heritage.",
+        "content-fourth-ptII":"The best time to visit Sercchip is from October to March, when the weather is pleasant and the flowers are in bloom. Sercchip is a place where you can experience the beauty and culture of Mizoram. Major attractions are Vantawng Falls, Hmuifang Hills."
+      },
+
+
+
+
+      {
+        "id":"tripura",
+        "content-first":"Tucked away in the northeastern embrace of India, Tripura casts a spell of irresistible allure, urging you to uncover its hidden treasures. Imagine strolling through lively avenues adorned with vibrant markets, where the scent of local cuisines harmonizes with the melodies of age-old tunes. Amidst verdant landscapes and tranquil waters, ancient temples stand as eloquent witnesses to the passage of time, inviting you to immerse yourself in a world where history and contemporary life entwine seamlessly. As the sun sets, the cityscape awakens with the twinkle of streetlights and the echoes of shared laughter. In Tripura, each corner narrates a tale, every smile extends a warm invitation, and every panorama is a memory eager to be cherished. Here, time adopts a leisurely pace, and each instant becomes a cherished keepsake in your journey of discovery.",
+        "title": "Tripura",
+
+        "image-first": "./agartala.jpg",
+        "content-second": "Agartala is the capital city of Tripura, a state in Northeast India. It is a vibrant and diverse city that offers a glimpse into the rich heritage and culture of Tripura.",
+        "content-second-ptII": "The best time to visit Agartala is from October to March, when the weather is pleasant and dry. You can also witness some of the festivals and fairs that are celebrated in this period, such as Durga Puja, Diwali, Orange Festival, and Book Fair. Noted attractions are Ujjayanta Palace, Jagannath Temple, Jampui Hills and Sepahijala Wildlife Sanctuary.",
+
+        "image-second": "./unakoti.jpg",
+        "content-third": "Unakoti is a unique and ancient site of rock-cut sculptures and carvings in Tripura, India. It is believed to be a Shaivite place of worship, dating back to the 7th to 9th centuries. The name Unakoti means one less than a crore (ten million), which is the number of statues that are said to be present here. The statues depict various Hindu deities, especially Lord Shiva, as well as animals and human figures.",
+        "content-third-ptII": "The best time to visit Unakoti is from October to March, when the weather is pleasant and dry. You can also enjoy some of the festivals and fairs that are celebrated in this period, such as Durga Puja, Diwali, Orange Festival, and Book Fair. Unakoti is a place where you can experience the heritage and spirituality of Tripura, as well as its natural beauty and diversity.",
+
+        "image-third": "./neermahal.jpg",
+        "content-fourth": "Neermahal is a former royal palace built by Maharaja Bir Bikram Kishore Manikya Debbarma of Tripura in 1930. It is located in the middle of Rudrasagar Lake, and is also known as the Water Palace. It is one of the two water palaces in India, and the largest of its kind in the Indian subcontinent. It was designed as a summer retreat for the king and his family, and has a blend of Hindu and Islamic architectural styles.",
+        "content-fourth-ptII": "The best time to visit Neermahal is from October to March, when the weather is pleasant and dry. You can also witness some of the festivals and fairs that are celebrated in this period, such as Durga Puja, Diwali, Orange Festival, and Book Fair."
+      },
+
+
+
+
+      {
+        "id":"sikkim",
+        "content-first":"Sikkim, a land of mystical beauty nestled in the Himalayas, unfolds like a vibrant tapestry of nature's wonders. Imagine embarking on a journey through winding roads that lead to breathtaking valleys carpeted in hues of green and dotted with vibrant blooms. In this serene haven, monasteries perch on hilltops, their ornate architecture whispering tales of ancient wisdom. As you explore, the air is filled with the fragrance of wildflowers, and the distant snow-capped peaks seem to touch the sky. Quaint villages offer warm welcomes, and local festivals infuse the air with joyous melodies and vivid celebrations. Amidst terraced fields and mist-kissed forests, you'll find tranquility and a sense of connection with both the land and its people. Sikkim is a realm where nature and spirituality converge, leaving you with a sense of awe and a heart full of memories.",
+        "title": "Sikkim",
+
+        "image-first": "./gangtok.jpg",
+        "content-second": "Gangtok is the capital city of Sikkim, a state in Northeast India. It is a charming and diverse city that offers a glimpse into the rich heritage and culture of Sikkim. Alongside the deeply felt presence of stupas and monasteries, Gangtok also bustles like any other thriving town. It has an amazing view of Mount Kanchenjunga, the third highest mountain peak in the world. Gangtok is also a base for a whole lot of trekkers to the Himalayan mountain ranges.",
+        "content-second-ptII":"The best time to visit Gangtok is from October to March, when the weather is pleasant and dry. You can also witness some of the festivals and fairs that are celebrated in this period, such as Durga Puja, Diwali, Orange Festival, and Book Fair. Major attractions are Tsomgo Lake, Ban Jhakfri Falls, Enchey Monastery, Ganesh Tok, Do Drul Chorten.",
+        
+        "image-second": "./ravangla.jpg",
+        "content-third":"Ravangla is a small town in the South Sikkim district of India. It is situated at an altitude of 7000 feet, and offers a breathtaking view of the snow-capped peaks of the Himalayas. Ravangla is a popular tourist destination for nature lovers, bird watchers, and trekkers. It is also a place of spiritual significance, as it has many Buddhist monasteries and temples .",
+        "content-third-ptII":"The best time to visit Ravangla is from March to May, when the weather is pleasant and clear. You can also witness some of the festivals and fairs that are celebrated in this period, such as Bhumchu, Saga Dawa, and Flower Festival. It's main attractions include Maenam Wildlife Sanctuary, Temi Tea Garden, Rayong Sunrise Viewpoint.",
+
+        "image-third": "./zero.jpg",
+        "content-fourth":"Zero-Point is a remote and scenic location in the North Sikkim district of India. It is situated at an altitude of 15,300 feet, and is the last outpost of civilization on the Indo-China border. It is also known as Yumesamdong, which means “the meeting point of three rivers” . Zero Point is a popular tourist destination for adventure seekers, nature lovers, and photographers. It offers a spectacular view of the snow-clad mountains, glaciers, and valleys. Zero Point is also a place of spiritual significance, as it is believed to be the abode of Guru Padmasambhava, who introduced Buddhism to Sikkim.",
+        "content-fourth-ptII":"The best time to visit Zero Point is from October to December, when the weather is clear and cold. You can also witness some of the festivals and fairs that are celebrated in this period, such as Dussehra, Diwali, Losoong, and Bumchu.",
+
+        "image-fourth": "./nathula.jpg",
+        "content-fifth":"Nathula Pass is a mountain pass that connects India and China in the Eastern Himalayas. It is located at an altitude of 14,140 feet, and is one of the highest motorable passes in the world. Nathula Pass is a historic and strategic location, as it was part of the ancient Silk Road, and is also the site of a border post between the two countries. ",
+        "content-fifth-ptII":"The best time to visit Nathula Pass is from May to October, when the weather is clear and pleasant. You can also witness some of the festivals and fairs that are celebrated in this period, such as Saga Dawa, Gangtok Food Festival, and Flower Exhibition.",
+
+        "image-fifth": "./namchi.jpg",
+        "content-sixth":"Namchi is a small town in the South Sikkim district of India. It is situated at an altitude of 5500 feet, and offers a splendid view of the Khangchendzonga range and the Rangit valley. Namchi means “Sky High” in Sikkimese, and the town lives up to its name with its scenic beauty and serene atmosphere. Namchi is a cultural and religious hub of Sikkim, as it has many Buddhist monasteries and Hindu temples.",
+        "content-sixth-ptII":"The best time to visit Namchi is from March to June, when the weather is pleasant and clear. You can also witness some of the festivals and fairs that are celebrated in this period, such as Bhumchu, Saga Dawa, Flower Festival, and Namchi Mahotsav."
+      }
+    ]
+  }
